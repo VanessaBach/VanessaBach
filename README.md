@@ -6,4 +6,4 @@
  I'm currently studying <strong> React JS </strong> to make my web interfaces even more efficient.
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=VanessaBach&theme=default)](https://github.com/VanessaBach/)
+[![VanessaBach](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaBach&hide=html&layout=compact=true&theme=dracula)](https://github.com/VanessaBach/)
