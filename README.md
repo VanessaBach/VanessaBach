@@ -39,7 +39,14 @@
 
 
 ## 🔭 Main projects
-[beachdayrio](https://github.com/soutobias/beach-day): Ruby on Rails/JS/HTML/CSS. Web application for helping people for choosing beaches in Rio de Janeiro. Connections in googlemaps api, openweather and worldtides and backend with tasks scheduler, webscrapping and selenium
+[Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
+The website page: [http://www.operantar.live/]
+
+[Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
+The website page: [http://alcatrazes.herokuapp.com](http://alcatrazes.herokuapp.com/) 
+
+[We-mu](https://github.com/soutobias/oceanobsbrasil): PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
+
 
 [oceanObsBrasil](https://github.com/soutobias/oceanobsbrasil): PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
 
