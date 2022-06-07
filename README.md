@@ -7,12 +7,13 @@
 </p>
 
 ## Follow me
+
 [![Gmail Badge](https://img.shields.io/badge/-vanessabach.r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessabach.r@gmail.com)](mailto:vanessabach.r@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-bachvanessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bachvanessa/)](https://www.linkedin.com/in/bachvanessa/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/VanessaBach)](https://github.com/VanessaBach)
 
-## 🚀 My Skills
 
+## 🚀 My Skills
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="ruby on rails"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -25,7 +26,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 
----
 
 ## ⭐ My GitHub Stats
 
@@ -37,28 +37,22 @@
 </p>
 
 
-
 ## 🔭 Main projects
+
 [Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
-The website page: [http://www.operantar.live/]
+The website page: [http://www.operantar.live/].
 
 [Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
-The website page: [http://alcatrazes.herokuapp.com]
+The website page: [http://alcatrazes.herokuapp.com].
 
 [We-mu](https://github.com/VanessaBach/wemu): Ruby on Rails/JS/HTML/CSS/API. A social network designed to connect people through musical taste, using Spotify's API.
-The website page: [http://www.we-mu.com/]
+The website page: [http://www.we-mu.com/].
+
+[Board for us](https://github.com/VanessaBach/boards_for_us): Ruby on Rails/JS/HTML/CSS. A surfboard rental website, where the customer can perform an advanced search considering parameters of interest.
+The website page: [http://board-for-us.herokuapp.com/].
+
+[PodCasTr](https://github.com/VanessaBach/PodCasTr): TypeScript/JS/CSS. PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen podcats.
+
+[oceanobsbrasil-api](https://github.com/VanessaBach/oceanobsbrasil-api): Ruby on Rails/JS/HTML/CSS/API. API created to acess OceanObs database.
 
 
-
-
-[oceanObsBrasil](https://github.com/soutobias/oceanobsbrasil): PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
-
-[remobs_qc](https://github.com/soutobias/remobs_qc): PYTHON. Code for managing the buoys of the National Buoys Program and the REMO Observacional project. This repository presents codes for obtaining data from buoys from different manufacturers that transmit data through different satellites (IRIDIUM SBD, INMARSAT, ARGOS), as well as quality control routines used in the PNBOIA and data encoding in BUFR for the GTS. This repository also collect Brazilian Navy WWIII model outputs;
-
-[remobs_api](https://github.com/soutobias/remobs_api): Ruby on Rails. API created to make available data collected by PNBOIA buoys, as well as CHM numerical model results;
-
-[spotter](https://github.com/soutobias/spotter): Ruby on Rails/JS/HTML/CSS. Website created to make available the data of the metocean buoy deployed in Antarctica by the REMO Observacional project.
-
-[equip-chm112](https://github.com/soutobias/equip-chm112): Ruby on Rails/HTML/CSS. Website to control the equipment of the operational oceanography division of the Brazilian Navy Hydrography Center.
-
-----
