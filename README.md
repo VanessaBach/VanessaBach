@@ -27,6 +27,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/></code>
+ <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typecript/typecript.png" alt="typecript"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 
 
@@ -51,11 +52,11 @@ The website page: [http://alcatrazes.herokuapp.com].
 [We-mu](https://github.com/VanessaBach/wemu): A social network designed to connect people through musical taste, using Spotify's API.
 The website page: [http://www.we-mu.com/].
 
-[Board for us](https://github.com/VanessaBach/boards_for_us): Ruby on Rails/JS/HTML/CSS. A surfboard rental website, where the customer can perform an advanced search considering parameters of interest.
+[Board for us](https://github.com/VanessaBach/boards_for_us): A surfboard rental website, where the customer can perform an advanced search considering parameters of interest.
 The website page: [http://board-for-us.herokuapp.com/].
 
-[PodCasTr](https://github.com/VanessaBach/PodCasTr): TypeScript/JS/CSS. PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen podcats.
+[PodCasTr](https://github.com/VanessaBach/PodCasTr): PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen podcats.
 
-[oceanobsbrasil-api](https://github.com/VanessaBach/oceanobsbrasil-api): Ruby on Rails/JS/HTML/CSS/API. API created to acess OceanObs database.
+[oceanobsbrasil-api](https://github.com/VanessaBach/oceanobsbrasil-api): API created to acess OceanObs database.
 
 
