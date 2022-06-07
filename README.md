@@ -6,8 +6,6 @@
  I'm currently studying <strong> React JS </strong> to make my web interfaces even more efficient.
 </p>
 
-[![VanessaBach](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaBach&hide=html&layout=compact=true&theme=dracula)](https://github.com/VanessaBach/)
-
 ## Follow me
 [![Gmail Badge](https://img.shields.io/badge/-vanessabach.r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessabach.r@gmail.com)](mailto:vanessabach.r@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-bachvanessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bachvanessa/)](https://www.linkedin.com/in/bachvanessa/)
