@@ -30,7 +30,7 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 
 
-# ⭐ My GitHub Stats
+⭐ My GitHub Stats
 
 <p align="center">
 <a href="https://github.com/VanessaBach">
@@ -40,7 +40,7 @@
 </p>
 
 
-# 🔭 Main projects
+📎 Main projects
 
 [Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
 The website page: [http://www.operantar.live/].
