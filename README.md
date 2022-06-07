@@ -42,7 +42,7 @@
 
 📎 Main projects
 
-[Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
+[Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
 The website page: [http://www.operantar.live/].
 
 [Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
