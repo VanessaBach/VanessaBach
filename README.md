@@ -1,11 +1,10 @@
 <p align="left" dir="auto"> 
  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> 
  Hello, my name is Vanessa. <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-target="animated-image.originalLink" hidden=""><img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
-      
  
- I am a <strong> FULL STACK WEB DEVELOPER </strong> with solid knowledge in Ruby on Rails, css, html and javascript. 
+ ✓ Oceanographer ✓ MSC Ocean and Earth Dynamics ✓ Full Stack Web Developer ✓ Learning React at Rocketseat
  
- I'm currently studying <strong> React JS </strong> to make my web interfaces even more efficient.
+
 </p>
 
 ## Follow me
