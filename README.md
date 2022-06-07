@@ -1,20 +1,21 @@
+# Hey there!
 <p align="left" dir="auto"> 
  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> 
- Hello, my name is Vanessa. <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-target="animated-image.originalLink" hidden=""><img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
+ My name is Vanessa. <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" data-target="animated-image.originalLink" hidden=""><img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" style="max-width: 100%;" data-target="animated-image.originalImage" hidden=""></a>
 </p>
  
 <p align="left" dir="auto"> 
  ✓ Oceanographer ✓ MSC Ocean and Earth Dynamics ✓ Full Stack Web Developer ✓ Learning React 
 </p>
 
-## Follow me
+# Find me on ...
 
 [![Gmail Badge](https://img.shields.io/badge/-vanessabach.r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessabach.r@gmail.com)](mailto:vanessabach.r@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-bachvanessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bachvanessa/)](https://www.linkedin.com/in/bachvanessa/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/VanessaBach)](https://github.com/VanessaBach)
 
 
-## 🚀 My Skills
+# 🚀 My Skills
 
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" alt="ruby on rails"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -28,7 +29,7 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"/></code>
 
 
-## ⭐ My GitHub Stats
+# ⭐ My GitHub Stats
 
 <p align="center">
 <a href="https://github.com/VanessaBach">
@@ -38,7 +39,7 @@
 </p>
 
 
-## 🔭 Main projects
+# 🔭 Main projects
 
 [Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
 The website page: [http://www.operantar.live/].
