@@ -48,7 +48,7 @@ The website page: [http://www.operantar.live/].
 [Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
 The website page: [http://alcatrazes.herokuapp.com].
 
-[We-mu](https://github.com/VanessaBach/wemu): Ruby on Rails/JS/HTML/CSS/API. A social network designed to connect people through musical taste, using Spotify's API.
+[We-mu](https://github.com/VanessaBach/wemu): A social network designed to connect people through musical taste, using Spotify's API.
 The website page: [http://www.we-mu.com/].
 
 [Board for us](https://github.com/VanessaBach/boards_for_us): Ruby on Rails/JS/HTML/CSS. A surfboard rental website, where the customer can perform an advanced search considering parameters of interest.
