@@ -45,7 +45,7 @@
 [Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
 The website page: [http://www.operantar.live/].
 
-[Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
+[Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
 The website page: [http://alcatrazes.herokuapp.com].
 
 [We-mu](https://github.com/VanessaBach/wemu): Ruby on Rails/JS/HTML/CSS/API. A social network designed to connect people through musical taste, using Spotify's API.
