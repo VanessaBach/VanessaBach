@@ -43,9 +43,12 @@
 The website page: [http://www.operantar.live/]
 
 [Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Ruby on Rails/JS/HTML/CSS. Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
-The website page: [http://alcatrazes.herokuapp.com](http://alcatrazes.herokuapp.com/) 
+The website page: [http://alcatrazes.herokuapp.com]
 
-[We-mu](https://github.com/soutobias/oceanobsbrasil): PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
+[We-mu](https://github.com/VanessaBach/wemu): Ruby on Rails/JS/HTML/CSS/API. A social network designed to connect people through musical taste, using Spotify's API.
+The website page: [http://www.we-mu.com/]
+
+
 
 
 [oceanObsBrasil](https://github.com/soutobias/oceanobsbrasil): PYTHON. Codes for retrieving weather and ocean data from multiple sources for merging into a single database. This data is provided in real time to Marine Weather Service (SMM) forecasters
