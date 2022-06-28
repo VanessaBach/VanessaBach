@@ -6,7 +6,7 @@
 </p>
  
 <p align="left" dir="auto"> 
- I'm a full stack web programmer. 
+ I'm a full stack web developer. 
 </p>
 
 <p align="left" dir="auto">  
