@@ -6,7 +6,7 @@
 </p>
  
 <p align="left" dir="auto"> 
- ✓ Oceanographer ✓ MSC Ocean and Earth Dynamics ✓ Full Stack Web Developer ✓ Learning React 
+ ✓ Full Stack Web Developer ✓ Ruby on Rails ✓ Learning React 
 </p>
 
 👀 Find me on ...
