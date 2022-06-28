@@ -6,14 +6,22 @@
 </p>
  
 <p align="left" dir="auto"> 
- I'm a *full stack web programmer*. 
- My main projects were developed in ruby on rails and I've been working hard to learn React.
- You can check here what I've been developing! 
+ I'm a full stack web programmer. 
+</p>
 
+<p align="left" dir="auto">  
+ My main projects were developed in ruby on rails and I've been working hard to learn React.
+</p>
+ 
+<p align="left" dir="auto">  
+ You can check here what I've been developing! 
+</p>
+ 
+<p align="left" dir="auto">   
  Feel free to use any of my codes and please, contact me if you have any comment or doubt. 
 </p>
 
-👀 Find me on ...
+👀 Find me here!
 
 [![Gmail Badge](https://img.shields.io/badge/-vanessabach.r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessabach.r@gmail.com)](mailto:vanessabach.r@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-bachvanessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bachvanessa/)](https://www.linkedin.com/in/bachvanessa/)
