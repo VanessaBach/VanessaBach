@@ -2,11 +2,15 @@
  
 <p align="left" dir="auto"> 
  <g-emoji class="g-emoji" alias="vulcan_salute" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png">🖖</g-emoji> 
- My name is Vanessa. 
+ Welcome to my profile. My name is Vanessa. 
 </p>
  
 <p align="left" dir="auto"> 
- ✓ Full Stack Web Developer ✓ Ruby on Rails ✓ Learning React 
+ I'm a *full stack web programmer*. 
+ My main projects were developed in ruby on rails and I've been working hard to learn React.
+ You can check here what I've been developing! 
+
+ Feel free to use any of my codes and please, contact me if you have any comment or doubt. 
 </p>
 
 👀 Find me on ...
