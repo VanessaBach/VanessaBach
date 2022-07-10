@@ -10,7 +10,7 @@
 </p>
 
 <p align="left" dir="auto">  
- My main projects were developed in ruby on rails and I've been working hard to learn React.
+ My main projects were developed in ruby on rails and ReactJS.
 </p>
  
 <p align="left" dir="auto">  
