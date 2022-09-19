@@ -75,3 +75,14 @@ The website page: [http://board-for-us.herokuapp.com/].
 [oceanobsbrasil-api](https://github.com/VanessaBach/oceanobsbrasil-api): API created to acess OceanObs database.
 
 
+📎 React Projects Repositories
+
+[PodCasTr](https://github.com/VanessaBach/PodCasTr): PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen podcats.
+
+[ToDoList](https://github.com/VanessaBach/ToDoList): ToDoList is an App developed for task control, where you can add and delete.
+
+[React-profile](https://github.com/VanessaBach/React-profile): React-profile is an App where you can create your profile, share posts and people can add comments. 
+
+[bola-de-cristal](https://github.com/VanessaBach/bola-de-cristal): Q&A application developed to apply knowledge of HyperText Markup Language (HTML), Cascading Style Sheets (CSS), js and selectors during the Maratona Discovery, RocketSeat.
+
+
