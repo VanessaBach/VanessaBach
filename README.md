@@ -11,7 +11,7 @@
 
 <p align="left" dir="auto">  
  My main projects were developed in ruby on rails, html, css and javascript.
- And.... as an eternal learner, I'm studying react JS.
+ And....I'm studying react JS.
  
  
 </p>
