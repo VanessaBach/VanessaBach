@@ -10,9 +10,7 @@
 </p>
 
 <p align="left" dir="auto">  
- My main projects were developed in ruby on rails, html, css and javascript.
- And....I'm studying react JS.
- 
+ My main projects were developed in ruby on rails, html, css and reactJS. 
  
 </p>
  
