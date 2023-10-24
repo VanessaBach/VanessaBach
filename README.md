@@ -54,6 +54,8 @@
 
 
 📎 Main projects: ROR + React
+
+
 [Agendor](https://github.com/orgs/agendor/repositories): Agendor CRM platform designed to enhance consultative sales, where my job is to develop new features and fix bugs, together with the other developers on the team. The back end of the application is mainly developed in Ruby on Rails, with part of the legacy written in PHP, and the front end is developed in React.
 The website page: [https://www.agendor.com.br/].
 
