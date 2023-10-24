@@ -6,11 +6,11 @@
 </p>
  
 <p align="left" dir="auto"> 
- I'm a full stack web developer. 
+ I'm a full-stack software engineer. 
 </p>
 
 <p align="left" dir="auto">  
- My main projects were developed in ruby on rails, html, css and reactJS. 
+ My main projects were developed in Ruby on Rails, HTML, CSS, and React. 
  
 </p>
  
@@ -19,7 +19,7 @@
 </p>
  
 <p align="left" dir="auto">   
- Feel free to use any of my codes and please, contact me if you have any comment or doubt. 
+ Feel free to use any of my codes and please, contact me if you have any comments or doubts. 
 </p>
 
 👀 Find me here!
@@ -53,32 +53,30 @@
 </p>
 
 
-📎 Main projects
+📎 Main projects: ROR + React
+[Agendor](https://github.com/orgs/agendor/repositories): Agendor CRM platform designed to enhance consultative sales, where my job is to develop new features and fix bugs, together with the other developers on the team. The back end of the application is mainly developed in Ruby on Rails, with part of the legacy written in PHP, and the front end is developed in React.
+The website page: [https://www.agendor.com.br/].
 
-[Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in Antartic in real time. 
-The website page: [http://www.operantar.live/].
+[Antarctic-Buoys](https://github.com/VanessaBach/Antarctic-Buoys): Website developed for the Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by meteoceanographic buoys in the Antarctic in real time. 
 
-[Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Website developed for Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
-The website page: [http://alcatrazes.herokuapp.com].
+[Alcatrazes](https://github.com/VanessaBach/Alcatrazes): Website developed for the Brazilian Marine Meteorological Service to monitor and easily visualize the data collected by a meteoceanographic buoy moored in Alcatrazes - SP.  
 
 [We-mu](https://github.com/VanessaBach/wemu): A social network designed to connect people through musical taste, using Spotify's API.
-The website page: [http://www.we-mu.com/].
 
 [Board for us](https://github.com/VanessaBach/boards_for_us): A surfboard rental website, where the customer can perform an advanced search considering parameters of interest.
-The website page: [http://board-for-us.herokuapp.com/].
 
-[PodCasTr](https://github.com/VanessaBach/PodCasTr): PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen podcats.
+[PodCasTr](https://github.com/VanessaBach/PodCasTr): PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen to podcasts.
 
 [oceanobsbrasil-api](https://github.com/VanessaBach/oceanobsbrasil-api): API created to acess OceanObs database.
 
 
 📎 React Projects Repositories
 
-[PodCasTr](https://github.com/VanessaBach/PodCasTr): PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen podcats.
+[PodCasTr](https://github.com/VanessaBach/PodCasTr): PodCasTr is an App developed from scratch in five days during Next Level Week (NLW) - 5 Edition, promoted by RocketSea, to access and listen to podcasts.
 
 [ToDoList](https://github.com/VanessaBach/ToDoList): ToDoList is an App developed for task control, where you can add and delete.
 
-[React-profile](https://github.com/VanessaBach/React-profile): React-profile is an App where you can create your profile, share posts and people can add comments. 
+[React-profile](https://github.com/VanessaBach/React-profile): React-profile is an App where you can create your profile, share posts, and people can add comments. 
 
 [bola-de-cristal](https://github.com/VanessaBach/bola-de-cristal): Q&A application developed to apply knowledge of HyperText Markup Language (HTML), Cascading Style Sheets (CSS), js and selectors during the Maratona Discovery, RocketSeat.
 
